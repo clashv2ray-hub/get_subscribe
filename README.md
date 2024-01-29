@@ -1,5 +1,23 @@
 # ⏰ 自动获取订阅链接
+##  高速机场推荐1
 
+[【快猫】](https://home.kuaimao.io/#/register?code=TTaIXhNs)
+
+季付送小火箭，流量多，优惠多
+
+而且不限登录设备数，chatGPT 解锁奈飞、Disney、HBO、TVB、Happyon、AbemaTV 等在内的多种流媒体视频
+
+注册地址：[【快猫官网（点击注册）】](https://home.kuaimao.io/#/register?code=TTaIXhNs)
+
+##  高速机场推荐2
+
+[【FCCloud】](https://invite.fastconnect.cc/#/register?code=9BV1HHRM)
+
+FCCloud全球节点，解锁流媒体GPT，平民价格
+
+注册地址：[【FCCloud（点击注册）】](https://invite.fastconnect.cc/#/register?code=9BV1HHRM)
+
+所有免费clash节点都爬取自网络，请勿用于非法用途 。电报地址：<a href="https://t.me/+_gkN4gmsOWFjZmZl" target="_blank">免费clash节点每日更新 – Telegram</a>
 ## ⚠️ 注意
 
 - 欢迎无产阶级革命斗士免费使用本订阅
@@ -33,12 +51,9 @@
 
 [https://www.ermao.net/resource/vpn/](https://www.ermao.net/resource/vpn/)
 
-| 链接 | 价位 | Telegram群 | 备注 |
-|----|----|----|----|
-|[https://go.tapfog.io/#/register](https://go.tapfog.io/#/register?code=rm5I5qDA)| 9.8元 60G/月 |[@tapfoggroup](https://t.me/+km7x9UyPLuVmNWNl)|正常访问|
-|[https://www.efcloud.bio](https://www.efcloud.bio/#/register?code=kbbSUTvm)|	9 元 350G/月|[@efcloudgroup](https://t.me/efcloudgroup)|正常使用|
-|[https://www.fccloud.cc](https://www.fccloud.cc/#/register?code=AYsN4z5L)|	10 元 150G/月|[@fccloudchat](https://t.me/fccloudchat)|需要挂代理访问|
+| 链接 | 价位 |  备注 |
+|----|-------|----|
 
-## ⭐ 感谢支持
+|[https://www.fccloud.cc](https://www.fccloud.cc/#/register?code=9BV1HHRM)|	10 元 150G/月|(https://t.me/fccloudchat)|
 
-[![操，图挂了……](https://raw.githubusercontent.com/ermaozi/get_subscribe/main/mail/project_info.svg)](https://github.com/ermaozi/get_subscribe)
+
