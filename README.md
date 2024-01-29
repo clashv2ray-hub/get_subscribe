@@ -49,6 +49,6 @@ FCCloud全球节点，解锁流媒体GPT，平民价格
 
 | 链接 | 价位 |  备注 |
 |----|-------|----|
-|[https://www.fccloud.cc](https://www.fccloud.cc/#/register?code=9BV1HHRM)|	10 元 150G/月|(https://t.me/fccloudchat)|
+|[https://www.fccloud.cc](https://www.fccloud.cc/#/register?code=9BV1HHRM)|	10 元 150G/月||
 
 
