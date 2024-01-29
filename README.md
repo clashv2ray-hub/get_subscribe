@@ -47,13 +47,8 @@ FCCloud全球节点，解锁流媒体GPT，平民价格
 
 ## 💸 付费订阅
 
-我搜罗的一些比较便宜的机场（月消费10块以下），觉得免费订阅不好使的朋友们可以在这里面找找。
-
-[https://www.ermao.net/resource/vpn/](https://www.ermao.net/resource/vpn/)
-
 | 链接 | 价位 |  备注 |
 |----|-------|----|
-
 |[https://www.fccloud.cc](https://www.fccloud.cc/#/register?code=9BV1HHRM)|	10 元 150G/月|(https://t.me/fccloudchat)|
 
 
